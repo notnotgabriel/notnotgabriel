@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notnotgabriel" alt="notnotgabriel" /> </p>
 
-🔭 I’m currently working on [iFood website](https://www.ifood.com.br/)
+🍔🍕🥗 I’m currently working on [iFood website](https://www.ifood.com.br/)
 
 🌱 I’m currently learning **Testing library & Cypress**
 
