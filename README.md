@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **Testing library & Cypress**
 
-👯 I’m collaborating on [Vota Cidade](https://github.com/Minhacps/votacidade)
+👯 I’m collaborating on [Vota Cidade](https://github.com/Minhacps/votacidade-app)
 
 💬 Ask me about **HTML, CSS and Javascript**
 
