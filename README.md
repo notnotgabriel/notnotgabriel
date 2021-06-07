@@ -5,7 +5,7 @@
 
 <img width="20px" src="https://avatars.githubusercontent.com/u/10535096?s=200&v=4" /> I’m currently doing awesome frontend at [Loadsmart](https://loadsmart.com/)
 
-🌱 I’m currently learning **Typrescript and DDD**
+🌱 I’m currently learning **Typescript and DDD**
 
 👯 I’m supporting [Vota Cidade](https://github.com/Minhacps/votacidade-app)
 
